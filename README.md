@@ -16,6 +16,14 @@ Python:
   - (open bci api?)
   - pytorch (?)
 
+install: 
+Mac: 
+- install homebrew
+- install uv via homebre
+
+windows / WLS:
+https://docs.astral.sh/uv/getting-started/installation/???
+
 
 ## Software
 
